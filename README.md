@@ -19,12 +19,13 @@ Here are some ideas to get you started:
 <div/>
 
 <h1 align="center">Hi 👋, I'm NOUSSAIRE</h1>
-<h2 align="center">I'm studing in:</h2>
+<h2 align="center">I'm studing in:
 <div>
     <a href="https://www.42.fr/">
         <img src="https://img.shields.io/badge/42-000000.svg?style=for-the-badge&logo=42&logoColor=white" alt="42 badge">
     </a>
 </div>
+</h2>
 <h3 align="center">A passionate frontend and backend developer from MORROCO</h3>
 
 <h3 align="left">WELCOME</h3>
