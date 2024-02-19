@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <a src="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/water/nbenasso" alt="nbenasso's 42 stats" /></a>
 <div/>
 
-h1 align="center">Hi 👋, I'm NOUSSAIRE</h1>
+<h1> align="center">Hi 👋, I'm NOUSSAIRE</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
