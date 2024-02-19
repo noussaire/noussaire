@@ -18,49 +18,12 @@ Here are some ideas to get you started:
 <a src="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/water/nbenasso" alt="nbenasso's 42 stats" /></a>
 <div/>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>README</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0 auto;
-            max-width: 800px;
-            padding: 20px;
-        }
-        h1 {
-            color: #333;
-            font-size: 36px;
-            margin-bottom: 20px;
-            text-align: center;
-        }
-        p {
-            color: #666;
-            font-size: 16px;
-            margin-bottom: 20px;
-        }
-        .icon {
-            margin-right: 5px;
-            vertical-align: middle;
-        }
-    </style>
-</head>
-<body>
-    <h1>Your Project Name</h1>
-    <p>A brief description of your project.</p>
-    <h2>Technologies Used</h2>
-    <ul>
-        <li><img class="icon" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"> HTML</li>
-        <li><img class="icon" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"> CSS</li>
-        <li><img class="icon" src="https://img.icons8.com/ios-filled/50/000000/laravel.png" alt="Laravel"> Laravel</li>
-        <li><img class="icon" src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"> MySQL</li>
-        <li><img class="icon" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"> MongoDB</li>
-    </ul>
+h1 align="center">Hi 👋, I'm NOUSSAIRE</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-</body>
-</html>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
