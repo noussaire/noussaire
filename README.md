@@ -18,6 +18,33 @@ Here are some ideas to get you started:
 <a src="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/water/nbenasso" alt="nbenasso's 42 stats" /></a>
 <div/>
 
+<style>
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f7f7f7;
+    overflow: hidden;
+}
+h1 {
+    font-size: 3em;
+    position: relative;
+    animation: move 2s infinite alternate;
+}
+@keyframes move {
+    0% {
+        transform: translateY(0);
+    }
+    100% {
+        transform: translateY(-20px);
+    }
+}
+</style>
+
 <h1 align="center">Hi 👋, I'm NOUSSAIRE</h1>
 <h2 align="center">I'm studing in:<div>
     <a href="https://www.42.fr/">
