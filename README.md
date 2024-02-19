@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <a src="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/water/nbenasso" alt="nbenasso's 42 stats" /></a>
 <div/>
 
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -62,13 +61,6 @@ Here are some ideas to get you started:
         <li><img class="icon" src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"> MySQL</li>
         <li><img class="icon" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"> MongoDB</li>
     </ul>
-    <h2>Installation</h2>
-    <p>Instructions on how to install your project.</p>
-    <h2>Usage</h2>
-    <p>Instructions on how to use your project.</p>
-    <h2>Contributing</h2>
-    <p>Guidelines on how to contribute to your project.</p>
-    <h2>License</h2>
-    <p>Information about the license of your project.</p>
+
 </body>
 </html>
