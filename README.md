@@ -85,7 +85,7 @@ optimized data sorting. </li>
 
 <h3 align="center">Projets Notables</h3>
 <p align="center">
-  <a href="[https://github.com/noussaire/amazing-project](https://github.com/noussaire/push_swap)">Amazing Project</a> |
+  <a href="https://github.com/noussaire/push_swap">Amazing Project</a> |
   <a href="https://github.com/noussaire">Mon Profil</a>
 </p>
 
