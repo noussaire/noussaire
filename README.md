@@ -29,6 +29,11 @@ Here are some ideas to get you started:
    <a src="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/water/nbenasso" alt="nbenasso's 42 stats" /></a>
 </p>
 
+<h3 align="center">Trophées GitHub</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=noussaire&theme=onedark" alt="Trophées GitHub" />
+</p>
+
 <!-- Langages et outils -->
 <h3 align="center">Langages et Outils:</h3>
 <p align="center">
