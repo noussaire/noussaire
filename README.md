@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 <!-- Statistiques GitHub -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=noussaire&show_icons=true&theme=dracula" alt="Statistiques GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noussaire&layout=compact&theme=nightowl" alt="Langages" />
    <a src="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/water/nbenasso" alt="nbenasso's 42 stats" /></a>
 </p>
 
