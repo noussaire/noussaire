@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 </div>
 <!-- Introduction -->
 <h1 align="center">Salut 👋, je suis Noussaire</h1>
+<div align="center">
+  <a src="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/water/nbenasso" alt="nbenasso's 42 stats" /></a>
+</div>
 <h3 align="center">Développeur Full Stack passionné basé à Maroc</h3>
 
 <!-- Statistiques GitHub -->
