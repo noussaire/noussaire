@@ -20,6 +20,11 @@ Here are some ideas to get you started:
 </div>
 <!-- Introduction -->
 <h1 align="center">Salut 👋, je suis Noussaire</h1>
+<div>
+    <a href="https://www.42.fr/">
+        <img src="https://img.shields.io/badge/42-000000.svg?style=for-the-badge&logo=42&logoColor=white" alt="42 badge">
+    </a>
+</div>
 <h3 align="center">Développeur Full Stack passionné basé à Maroc</h3>
 
 <!-- Statistiques GitHub -->
