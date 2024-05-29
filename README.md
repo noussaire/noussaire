@@ -83,6 +83,12 @@ optimized data sorting. </li>
   <li><a href="https://github.com/noussaire/server_IP_test">server_IP_test</a>: adress ip tester , test if server is online or offline </li>
 </ul>
 
+<h3 align="center">Projets Notables</h3>
+<p align="center">
+  <a href="[https://github.com/noussaire/amazing-project](https://github.com/noussaire/push_swap)">Amazing Project</a> |
+  <a href="https://github.com/noussaire">Mon Profil</a>
+</p>
+
 <!-- Centres d'intérêt -->
 <h3 align="center">Centres d'Intérêt</h3>
 <p align="center">
