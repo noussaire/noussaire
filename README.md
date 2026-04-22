@@ -130,7 +130,7 @@
 ## 💬 Citation Préférée
 
 &gt; *"La perfection est atteinte non pas lorsqu'il n'y a plus rien à ajouter, mais lorsqu'il n'y a plus rien à retirer."*
-&gt; 
+&gt;
 &gt; **— Antoine de Saint-Exupéry**
 
 ---
