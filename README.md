@@ -1,23 +1,16 @@
-&lt;!-- Bannière animée / header visuel --&gt;
 &lt;div align="center"&gt;
   &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Noussaire&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Header" /&gt;
 &lt;/div&gt;
 
-&lt;!-- Introduction & Badges professionnels --&gt;
 &lt;h1 align="center"&gt;Salut 👋, je suis Noussaire&lt;/h1&gt;
 &lt;h3 align="center"&gt;💻 Développeur Full Stack passionné | 🇲🇦 Basé au Maroc&lt;/h3&gt;
 
 &lt;p align="center"&gt;
-  &lt;a href="https://github.com/noussaire?tab=followers"&gt;
-    &lt;img src="https://img.shields.io/github/followers/noussaire?label=Followers&style=social" alt="GitHub Followers" /&gt;
-  &lt;/a&gt;
-  &lt;a href="https://github.com/noussaire"&gt;
-    &lt;img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4%EF%B8%8F-blue" alt="Open Source" /&gt;
-  &lt;/a&gt;
-  &lt;img src="https://komarev.com/ghpvc/?username=noussaire&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /&gt;
+  &lt;img src="https://img.shields.io/github/followers/noussaire?label=Followers&style=social" alt="Followers" /&gt;
+  &lt;img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4%EF%B8%8F-blue" alt="Open Source" /&gt;
+  &lt;img src="https://komarev.com/ghpvc/?username=noussaire&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" /&gt;
 &lt;/p&gt;
 
-&lt;!-- Badges Tech Stack --&gt;
 &lt;p align="center"&gt;
   &lt;img src="https://img.shields.io/badge/Full%20Stack-Developer-brightgreen?style=for-the-badge" alt="Full Stack" /&gt;
   &lt;img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /&gt;
@@ -34,7 +27,7 @@
 - 🌱 J'apprends constamment de nouvelles technologies et meilleures pratiques
 - 👯 Je cherche à collaborer sur des projets **open source** innovants
 - 💬 Demande-moi conseil sur : React, Node.js, Python, Docker, Bases de données
-- 📫 Contacte-moi via : [LinkedIn](https://linkedin.com/in/noussaire) *(à mettre à jour)*
+- 📫 Contacte-moi via : [LinkedIn](https://linkedin.com/in/noussaire)
 
 ---
 
@@ -49,12 +42,12 @@
 ## 📊 Statistiques GitHub
 
 &lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=noussaire&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Statistiques GitHub" width="48%" /&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api?username=noussaire&show_icons=true&theme=dracula&hide_border=true" alt="Stats" width="48%" /&gt;
   &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noussaire&layout=compact&theme=nightowl&hide_border=true" alt="Langages" width="48%" /&gt;
 &lt;/p&gt;
 
 &lt;p align="center"&gt;
-  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=noussaire&theme=dracula&hide_border=true" alt="GitHub Streak" width="70%" /&gt;
+  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=noussaire&theme=dracula&hide_border=true" alt="Streak" width="70%" /&gt;
 &lt;/p&gt;
 
 ---
@@ -129,7 +122,7 @@
 ## 📈 Activité GitHub
 
 &lt;p align="center"&gt;
-  &lt;img src="https://github-readme-activity-graph.vercel.app/graph?username=noussaire&theme=dracula&hide_border=true" alt="GitHub Activity Graph" /&gt;
+  &lt;img src="https://github-readme-activity-graph.vercel.app/graph?username=noussaire&theme=dracula&hide_border=true" alt="Activity Graph" /&gt;
 &lt;/p&gt;
 
 ---
@@ -142,6 +135,6 @@
 
 ---
 
-&lt;p align="center"&gt;
+&lt;div align="center"&gt;
   &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" alt="Footer" /&gt;
-&lt;/p&gt;
+&lt;/div&gt;
