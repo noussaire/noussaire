@@ -11,7 +11,7 @@
   <a href="https://github.com/noussaire">
     <img src="https://img.shields.io/badge/GitHub-noussaire-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/nousaire-benassou">
+  <a href="https://www.linkedin.com/in/nousaire-benassou-897688360/">
     <img src="https://img.shields.io/badge/LinkedIn-Nousaire%20Benassou-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
