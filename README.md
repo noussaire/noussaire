@@ -63,15 +63,14 @@ I turn ideas into real products — from clean UIs to robust backends.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noussaire&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noussaire&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noussaire&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noussaire&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noussaire&theme=tokyonight" width="100%" />
 </p>
 
 ---
